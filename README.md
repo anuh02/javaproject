@@ -4,6 +4,9 @@
 
 **Data Structure and Algorithm Visualizer** is a Java-based tool designed to provide an intuitive and interactive way to understand common data structures and algorithms. This project was developed as part of a group assignment during our undergraduate studies to bridge the gap between theoretical knowledge and practical implementation.
 
+![image](https://github.com/user-attachments/assets/2688f2b2-d5e8-4507-ad84-166cbd65302d)
+
+
 ---
 
 ## Features
@@ -13,6 +16,8 @@
 - **Queue**: Demonstrates enqueue and dequeue operations.
 - **Array**: Showcases dynamic updates and traversals.
 - **Binary Search Tree (BST)**: Illustrates insertion, search, and traversal operations.
+
+![image](https://github.com/user-attachments/assets/05c7a989-d0ef-46f2-aa5c-29a5ac670cd1)
 
 ### Sorting Algorithms
 - **Bubble Sort**: Step-by-step visualization of the bubble sort algorithm.
@@ -28,6 +33,8 @@
 ### Search Algorithms
 - **Linear Search**: Step-by-step illustration of searching through an array.
 - **Binary Search**: Efficient search on sorted data visualized in action.
+
+![image](https://github.com/user-attachments/assets/791611f9-c930-44c3-8afc-e8170ac258d6)
 
 ---
 
