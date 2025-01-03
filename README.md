@@ -13,6 +13,7 @@
 
 ### Data Structures
 - **Stack**: Visualizes stack operations like push, pop, and peek.
+  https://github.com/user-attachments/assets/974288c3-0288-446b-94a7-aee1b214ffb5
 - **Queue**: Demonstrates enqueue and dequeue operations.
 - **Array**: Showcases dynamic updates and traversals.
 - **Binary Search Tree (BST)**: Illustrates insertion, search, and traversal operations.
